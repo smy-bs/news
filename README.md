@@ -11,3 +11,5 @@
 ## API Docuemnt
 * API credit to :https://newsapi.org/docs
 
+## images
+![news](https://github.com/smy-bs/news/assets/54403916/ee573d24-d5b5-4792-981d-8633f2b7da16)
